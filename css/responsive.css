@@ -1,0 +1,474 @@
+@media (min-width: 320px) and (max-width: 575px){
+    /* navbar css st */
+#menu {
+    background: url(../images/menu-bg.png) no-repeat center;
+    background-size: auto;
+    background-size: cover;
+    padding: 0 0;
+}
+#menu .navbar-toggler {
+    font-size: 20px;
+}
+#menu .menu-right {
+    margin: 0 39px;
+    padding: 20px 0;
+}
+    /* navbar css end */
+    /* banner css st */
+#banner .carousel-caption {
+    top: 44%;
+}
+#banner .carousel-caption h1 {
+	font-size: 30px;
+}
+#banner .carousel-caption h3 {
+	padding: 8px 19px;
+	font-size: 12px;
+	margin: 15px 0;
+}
+#banner .carousel-caption p {
+	font-size: 12px;
+	margin-bottom: 15px;
+}
+.main-btn {
+	padding: 10px 12px;
+	font-weight: 400;
+	font-size: 9px;
+	letter-spacing: 3px;
+}
+    /* banner css end */
+    /* feature css st */
+#feature .features-icon-border {
+    padding: 8px;
+}
+#feature .features-box h3 {
+	font-size: 13px;
+}
+    /* feature css end */
+    /* home about css st */
+#home-about .about-img {
+    display: none;
+}
+#home-about .about-content h2 {
+	font-size: 18px;
+}
+    /* home about css end */
+    /* home product css st */
+.section-subtitle {
+        font-size: 16px;
+        width: 100%;
+}
+    /* home product css end */
+    /* about page css st */
+    /* about banner css st */
+#about-banner .about-banner-content {
+    padding: 220px 0 100px 0;
+    text-align: center;
+}
+#about-banner .about-banner-content h1 {
+	font-size: 45px;
+}
+    /* about banner css end */
+    /* about page css end */
+    /* product page css st */
+#product-banner .product-banner-content {
+    padding: 220px 0 100px 0;
+    text-align: center;
+}
+#product-banner .product-banner-content h1 {
+    font-size: 45px;
+}
+#product-section .product-section-content h2 {
+	font-size: 27px;
+}
+#product-section .product-section-content .product-section-detail h4 {
+	font-size: 18px;
+}
+.py-5 {
+	padding-top: 0rem !important;
+	padding-bottom: 0rem !important;
+}
+    /* product page css end */
+    /* gallery page css st */
+#gallery-banner .gallery-banner-content {
+    padding: 220px 0 100px 0;
+    text-align: center;
+}
+#gallery-banner .gallery-banner-content h1 {
+    font-size: 45px;
+}
+    /* gallery page css end */
+    /* contact page css st */
+#contact-banner .contact-banner-content {
+    padding: 220px 0 100px 0;
+    text-align: center;
+}
+#contact-banner .contact-banner-content h1 {
+    font-size: 45px;
+}
+#contact-section .contact-form {
+	padding: 44px;
+}
+#contact-section .contact-form textarea {
+	min-height: 110px;
+}
+#contact-section .contact-form .info-box li i {
+	left: -25px;
+	font-size: 38px;
+	line-height: 38px;
+}
+#contact-section .contact-form .info-box li {
+	padding: 0 0 33px 38px;
+	margin-bottom: 10px;
+}
+#contact-section .contact-form .info-box li a {
+	font-size: 17px;
+}
+    /* contact page css end */
+}
+@media (min-width: 576px) and (max-width: 767px){
+    /* navbar css st */
+#menu {
+    background: url(../images/menu-bg.png) no-repeat center;
+    background-size: auto;
+    background-size: cover;
+    padding: 0 0;
+}
+#menu .navbar-toggler {
+    font-size: 20px;
+}
+#menu .menu-right {
+    margin: 0 39px;
+    padding: 20px 0;
+}
+    /* navbar css end */
+    /* banner css st */
+#banner .carousel-caption {
+    top: 34%;
+}
+#banner .carousel-caption h1 {
+    font-size: 60px;
+}
+#banner .carousel-caption h3 {
+    padding: 9px 20px;
+    font-size: 26px;
+    margin: 20px 0;
+}
+#banner .carousel-caption p {
+    font-size: 15px;
+    margin-bottom: 30px;
+   }
+.main-btn {
+    padding: 13px 17px;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+    /* banner css end */
+    /* feature css st */
+#feature .features-box h3 {
+    font-size: 20px;
+}
+    /* feature css end */
+    /* home about css st */
+#home-about .about-content h2 {
+	font-size: 15px;
+}
+#home-about .about-content .about-detail p {
+	font-size: 12px;
+}
+#home-about .about-img img {
+	width: 100%;
+    margin-left: 0;
+}
+#home-about .about-img::before {
+	top: 26%;
+	left: 5%;
+	padding: 118px;
+}
+#home-about .about-img {
+	padding-top: 73px;
+}
+    /* home about css end */
+    /* home product css st */
+.section-subtitle {
+    width: 88%;
+    font-size: 14px;
+}
+#home-product .product-card span {
+	font-size: 13px;
+}
+#home-product .product-card h3 {
+	font-size: 20px;
+}
+    /* home product css end */
+    /* about page css st */
+    /* about banner css st */
+#about-banner .about-banner-content {
+    padding: 300px 0 100px 0;
+}
+#about-banner .about-banner-content h1 {
+	font-size: 50px;
+}
+    /* about banner css end */
+    /* about page css end */
+    /* product page css st */
+#product-banner .product-banner-content {
+    padding: 300px 0 100px 0;
+}
+#product-banner .product-banner-content h1 {
+    font-size: 50px;
+}
+    /* product page css end */
+    /* gallery page css st */
+#gallery-banner .gallery-banner-content {
+    padding: 300px 0 100px 0;
+}
+#gallery-banner .gallery-banner-content h1 {
+    font-size: 50px;
+}
+    /* gallery page css end */
+    /* contact page css st */
+#contact-banner .contact-banner-content {
+    padding: 300px 0 100px 0;
+}
+#contact-banner .contact-banner-content h1 {
+    font-size: 50px;
+}
+#contact-section .contact-form .info-box li i {
+	left: -31px;
+}
+#contact-section .contact-form .info-box li {
+	padding: 0 0 17px 85px;
+}
+    /* contact page css end */
+}
+@media (min-width: 768px) and (max-width: 991px){
+    /* navbar css st */
+#menu {
+    background: url(../images/menu-bg.png) no-repeat center;
+    background-size: auto;
+    background-size: cover;
+    padding: 0 0;
+}
+#menu .navbar-toggler {
+    font-size: 20px;
+}
+#menu .menu-right {
+    margin: 0 39px;
+    padding: 20px 0;
+}
+    /* navbar css end */
+    /* banner css st */
+#banner .carousel-caption {
+    top: 36%;
+}
+#banner .carousel-caption h3 {
+	margin: 15px 0;
+}
+#banner .carousel-caption p {
+	margin-bottom: 25px;
+	margin-top: 25px;
+}
+    /* banner css end */
+    /* home-about-css st */
+#home-about .about-content .about-detail p {
+    font-size: 14px;
+}
+#home-about .about-content h2 {
+	font-size: 20px;
+}
+#home-about .about-img::before {
+	top: 26%;
+	left: 3%;
+	padding: 164px;
+}
+#home-about .about-img img {
+	margin-left: 0;
+}
+#home-about .about-img {
+	padding-top: 107px;
+}
+    /* home-about-css end */
+    /* home-product-css st */
+.section-subtitle {
+    font-size: 14px;
+}
+    /* home-product-css end */
+    /* about page css st */
+    /* about banner css st */
+#about-banner {
+    min-height: 70vh;
+}
+#about-banner .about-banner-content {
+    padding: 300px 0 100px 0;
+}
+#about-banner .about-banner-content h1 {
+	font-size: 75px;
+}
+    /* about banner css end */
+    /* about page css end */
+    /* product page css st */
+#product-banner {
+    min-height: 70vh;
+}
+#product-banner .product-banner-content {
+    padding: 300px 0 100px 0;
+}
+#product-banner .product-banner-content h1 {
+    font-size: 75px;
+} 
+    /* product page css end */
+    /* gallery page css st */
+#gallery-banner {
+    min-height: 70vh;
+}
+#gallery-banner .gallery-banner-content {
+    padding: 300px 0 100px 0;
+}
+#gallery-banner .gallery-banner-content h1 {
+    font-size: 75px;
+} 
+    /* gallery page css end */
+    /* contact page css st */
+#contact-banner {
+    min-height: 70vh;
+}
+#contact-banner .contact-banner-content {
+    padding: 300px 0 100px 0;
+}
+#contact-banner .contact-banner-content h1 {
+    font-size: 75px;
+} 
+    /* contact page css end */
+}
+@media (min-width: 992px) and (max-width: 1199px){
+/* banner css st */
+#banner .carousel-caption {
+	top: 35%;
+}
+#banner .carousel-caption h1 {
+	font-size: 80px;
+}
+#banner .carousel-caption h3 {
+	font-size: 30px;
+	margin: 20px 0;
+}
+#banner .carousel-caption p {
+	margin-bottom: 25px;
+	margin-top: 21px;
+}
+.main-btn {
+	margin: 15px 0;
+}
+/* banner css end */
+/* feature css st */
+ #feature .features-box h3 {
+    font-size: 20px;
+}
+/* feature css end */
+/* home-about-css st */
+#home-about .about-img img {
+	margin-left: 0;
+}
+#home-about .about-img::before {
+	top: 6%;
+	left: 5%;
+	padding: 215px;
+}
+#home-about .about-content .about-detail p {
+	font-size: 14px;
+}
+/* home-about-css end */
+/* home-product-css st */
+#home-product .product-card span {
+	font-size: 12px;
+}
+#home-product .product-card h3 {
+	font-size: 18px;
+}
+#home-product .product-card .product-detail {
+	padding: 25px 16px;
+}
+.main-btn {
+	font-size: 13px;
+}
+/* home-product-css end */
+/* about page css st */
+/* about banner css st */
+ #about-banner {
+    min-height: 60vh;
+}
+#about-banner .about-banner-content {
+    padding: 300px 0 100px 0;
+}
+#about-banner .about-banner-content h1 {
+    font-size: 75px;
+}
+#about-section .about-section-detail p {
+	font-size: 10px;
+}
+/* about banner css end */
+/* about page css end */
+/* product page css st */
+#product-banner {
+    min-height: 60vh;
+}
+#product-banner .product-banner-content {
+    padding: 300px 0 100px 0;
+}
+#product-banner .product-banner-content h1 {
+    font-size: 75px;
+}
+/* product page css end */
+/* gallery page css st */
+#gallery-banner {
+    min-height: 60vh;
+}
+#gallery-banner .gallery-banner-content {
+    padding: 300px 0 100px 0;
+}
+#gallery-banner .gallery-banner-content h1 {
+    font-size: 75px;
+}
+/* gallery page css end */
+/* contact page css st */
+#contact-banner {
+    min-height: 60vh;
+}
+#contact-banner .contact-banner-content {
+    padding: 300px 0 100px 0;
+}
+#contact-banner .contact-banner-content h1 {
+    font-size: 75px;
+}
+#contact-section .contact-form .info-box li {
+	padding: 0 0 56px 77px;
+}
+#contact-section .contact-form .info-box li a {
+	font-size: 20px;
+}
+/* contact page css end */
+}
+@media (min-width: 1200px) and (max-width: 1400px){
+/* about page css st */
+#about-banner {
+    min-height: 46vh;
+}
+/* about page css end */
+/* product page css st */
+#product-banner {
+    min-height: 46vh;
+}
+/* product page css end */
+/* gallery page css st */
+#gallery-banner {
+    min-height: 46vh;
+}
+/* gallery page css end */
+/* contact page css st */
+#contact-banner {
+    min-height: 46vh;
+}
+/* contact page css end */
+}
